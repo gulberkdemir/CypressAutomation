@@ -8,7 +8,7 @@
 3- To install Cypress using the npm (Node package manager) navigate to the project directory and execute the following command:
 npm install
 
-4- open command prompt in terminal (shouldn be powershell)
+4- open command prompt in terminal (shouldnt be powershell)
 
 5- Go to the under of your project: C:\Users\dgulb\CypressAutomation>  and type this: .\node_modules\.bin\cypress run --spec cypress/integration/examples/test.api.js
 ![image](https://user-images.githubusercontent.com/62015829/138849042-2e8cf77f-aa01-4d66-87d9-5ebbf8e9bb97.png)
