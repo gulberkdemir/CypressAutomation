@@ -1,0 +1,23 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulberkdemir/CYPRESSAUTOMATION.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulberkdemir/CYPRESSAUTOMATION/issues"
+  },
+  "homepage": "https://github.com/gulberkdemir/CYPRESSAUTOMATION#readme"
+}
